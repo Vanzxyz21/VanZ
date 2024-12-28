@@ -1,7 +1,7 @@
 {
-   "name": "anos-voldigoad-botwhatsap",
+   "name": "whatsapp-bot",
    "version": "3.0.0",
-   "description": "anos-voldigoad-botwhatsap - Node J",
+   "description": "Whatsapp Bot - Node Js - Node J",
    "main": "index.js",
    "scripts": {
       "start": "node index.js"
@@ -9,12 +9,12 @@
    "author": "ARIS ",
    "repository": {
       "type": "git",
-      "url": "https://github.com/ariscd01/anos-voldigoad-botwhatsap.git"
+      "url": "https://github.com/ariscd01/kirigayakazuto-whatsbot.git"
    },
    "bugs": {
-      "url": "https://github.com/ariscd01/anos-voldigoad-botwhatsap/issues"
+      "url": "https://github.com/ariscd01/kirigayakazuto-whatsbot/issues"
    },
-   "homepage": "https://github.com/ariscd01/anos-voldigoad-botwhatsap",
+   "homepage": "https://github.com/ariscd01/kirigayakazuto-whatsbot",
    "license": "ISC",
    "dependencies": {
       "@open-wa/wa-automate": "^4.55.2",
