@@ -1,7 +1,5 @@
-<div align="center">
-<img src="http://piyobot.000webhostapp.com/822161.png" alt="Piyobot" width="400" />
 
-# Piyobot
+# KIRIGAYA KAZUTO BOT
   
 > I am very very bored, give me a task to update or develop this bot? feature suggestions?
 
@@ -64,8 +62,8 @@
 # installation
 ## 📝 Cloning this repo
 ```bash
-> git clone https://github.com/ariscd01/anos-voldigoad-botwhatsap
-> cd anos-voldigoad-botwhatsap
+> git clone https://github.com/ariscd01/kirigayakazuto-whatsbot
+> cd kirigayakazuto-whatsbot
 ```
 
 ## ✍️ Edit filenya
